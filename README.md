@@ -1,16 +1,20 @@
 <div align="center">
-  <img src="./bg.gif" alt="Cover - Luis Ricardo Frontend Developer" width="100%" />
+  <img src="./frontPage.jpg" alt="Cover - Luis Ricardo Frontend Developer" width="100%" />
 </div>
-
----
 
 <div align="center">
 
 # 👋 Hello! I'm **Luis Ricardo**
 
-🎨 **Frontend Developer** passionate about designing clean, usable, and modern interfaces.  
-🚀 I love building dynamic digital experiences with cutting-edge technologies.  
-📚 Always learning, always creating.
+🎨 **Frontend Developer** passionate about designing clean, usable, and modern interfaces.  
+🚀 I love building dynamic digital experiences with cutting-edge technologies. 📚 Always learning, always creating.
+
+<br>
+
+<img src="./bg.gif" alt="decoracion" width="60px" align="middle" />
+&nbsp; <a href="LINK_DE_TU_PORTAFOLIO">
+  <img src="https://img.shields.io/badge/🌐_Visit_my_Portfolio-000?style=for-the-badge&logoColor=white" align="middle" alt="Portfolio" />
+</a>
 
 </div>
 
@@ -69,13 +73,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lricardodev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lricardodev&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lricardodev&theme=radical)](https://git.io/streak-stats)
 
 ---
 
