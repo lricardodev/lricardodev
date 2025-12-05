@@ -11,9 +11,9 @@
 
 <br>
 
-<img src="./bg.gif" alt="decoracion" width="60px" align="middle" />
-&nbsp; <a href="LINK_DE_TU_PORTAFOLIO">
-  <img src="https://img.shields.io/badge/🌐_Visit_my_Portfolio-000?style=for-the-badge&logoColor=white" align="middle" alt="Portfolio" />
+<img src="./bg.gif" alt="decoracion" width="100px" align="middle" />
+&nbsp; <a href="https://portfolio-eight-beryl-54.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Visit_my_Portfolio-000?style=for-the-badge&logoColor=white" align="middle" alt="Portfolio" height="100px"/>
 </a>
 
 </div>
